@@ -1,3 +1,6 @@
 test ONE CHANGES 
-test TWO 2 change
+test TWO 2 change - 2 TWO
 test THREE 3 changed
+
+
+test TWO 2 change - 2 TWO
