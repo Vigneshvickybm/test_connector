@@ -1,1 +1,3 @@
-test ONE CHANGES
+test ONE CHANGES 
+test TWO 2 change
+test THREE 3 changed
